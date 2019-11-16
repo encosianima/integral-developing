@@ -150,7 +150,6 @@ The main parts of the backend code are:
 The logic of this engines can be recorded as db 'rows' (and run them in the node once retrieved from the db) in order to update them globally when any bug fix or improvement is achieved after launch. If this is too hard to achieve from start, we can start with that engines being part of the hardcoded initial code and in another release make that engines easily updatable as db records.
 The goal is to make the basis generic enough to avoid needing updates of the app and rely as much as possible on 'code from the db' techniques (like did the Maid-SAFE network).
 
-&nbsp;
 ### The frontend layer:
 The GUI can be developed mainly as a multiplatform app, for mobiles and computers. We can develop also a web version if we find good ways to identify users safely enough and trust at least some browsers.
 
@@ -171,32 +170,31 @@ The main parts of the frontend are:
     - the currency wallets or accounts of the agent's coins or shares (it can manage internal real wallets or just show defined accounts activity by pulling-pushing data from-to the proper source)
     - the UIs to use the active payment gateways of the projects you interact with
     - a multi totals and resources system where the agent can track and make accountings of any type of resource or stock
-  - a generic system to represent 'tasks':
+    - a generic system to represent 'tasks':
     - from personal todos to assigned tasks when participating in projects processes or workflows,
     - remunerated or exchangeable work (normally related an exchange),
     - search for tasks related your skills and search people with certain skills (if they stated that info as publically known)
-  - this two economic GUIs are mostly readonly: to create new economic facts is needed special app-tools that are available or not depending on the user relations, the main source of permissions. For example:
+    - this two economic GUIs are mostly readonly: to create new economic facts is needed special app-tools that are available or not depending on the user relations, the main source of permissions. For example:
     - if the user agent is an active participant in a project like FairMarket or similar, then the UI tools to create a shop and define products becomes available.
     - if the user agent wants to join a cooperative, buying shares, the payment gateways options defined by the project became usable by the user (and manageable by the project's coordinators).
     - if the user demonstrates ownership of certain accounts (e.g. cryptocurrencies), the account managing options should appear in the economic UI (or links to the account manager tool if is a fiat or a not integrated yet currency)
     - if the user participates in projects with activated tasks and workflows, the needed tools to define the related tasks commitments and events appear available for regular users (or to define plans and process setups if the user is a coordinator of the project)
-- browserver: general search discovery of knowledge and network resources
-  - the searches work using agent's relations too, searching first in known sources and after sending queries to any part of the network, but not floading all nodes with search requests.
+    - browserver: general search discovery of knowledge and network resources
+    - the searches work using agent's relations too, searching first in known sources and after sending queries to any part of the network, but not floading all nodes with search requests.
     - The knowledge already present in the system (one day all words) and a common set of data 'sectors' or common resource types trees*, allows us to send queries for index data or real data only to the nodes known to be hosting that type of keyword data.
-  - navigation of web pages stored in the db
-  - sharing settings, to define how to share the cached browser data from the navigation
-  - the UI should allow to contribute to the network by adding knowledge, words and definitions, like in a wikipedia style but decentralised
-- navigation of normal external web pages from the internet (served by servers) can be added if needed (maybe useful to crawl data into the common db) but there are plenty of existent browsers for this.
+    - navigation of web pages stored in the db
+    - sharing settings, to define how to share the cached browser data from the navigation
+    - the UI should allow to contribute to the network by adding knowledge, words and definitions, like in a wikipedia style but decentralised
+    - navigation of normal external web pages from the internet (served by servers) can be added if needed (maybe useful to crawl data into the common db) but there are plenty of existent browsers for this.
 
 Many more functionalities can be added by means of adding plugins to the app, available (or auto-installed) depending on the relations of the agent with different projects and her/his interests or working fields.
 
-&nbsp;
 
 ## Human Teams:
 
 This project requires at least two initial sub-teams, to start in parallel but under the same phylosophy of the IntegralDevs main project:
 
-- The code developers team and
+- The code developers team
 - the comunication-coordination team (or facilitators).
 
 The coordination team should help from start to:
@@ -205,13 +203,12 @@ The coordination team should help from start to:
 - manage a crowdfunding campaign in phases
 - engage patrons, donors and partners of the common good scene
 - find and try to involve healthy and skilled people for building the first needed Teams:
-  - Security team (testing and improving privacy, stability, etc)
-  - Backend team (improving data CRUD modules for the various ddb's used)
-  - Frontend team (improving usability and graphic design as modular skins)
-  - Communication team (improving the project's social connections, translations, etc)
-  - Common Taxonomy team and sub-teams (improving-curating the basic main branches needed but mainly improving coordination of 'sectors of activity' in sub-teams to build consensus about common types or data useful in their sectors).
+- Security team (testing and improving privacy, stability, etc)
+- Backend team (improving data CRUD modules for the various ddb's used)
+- Frontend team (improving usability and graphic design as modular skins)
+- Communication team (improving the project's social connections, translations, etc)
+- Common Taxonomy team and sub-teams (improving-curating the basic main branches needed but mainly improving coordination of 'sectors of activity' in sub-teams to build consensus about common types or data useful in their sectors).
 
-&nbsp;
 
 ## Milestones:
 
