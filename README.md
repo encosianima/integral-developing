@@ -3,7 +3,6 @@
 
 &nbsp;
 
-This repository is created to develop collectively an integral approach to Living as a whole, redefining verbs as <a href="https://github.com/IntegralDevs/integral-developing/blob/master/arts.md">Arts</a> as a first step and then going deeper into <a href="https://github.com/IntegralDevs/integral-developing/blob/master/ethics.md">Ethics</a>
+This repository was created to develop collectively an integral approach to *Living as a whole*, with the goal, amongst other, to explore  <a href="https://github.com/IntegralDevs/integral-developing/blob/master/ethics.md">Ethics</a> as a set of principles and also its practical applications in many fields.
 
-Also here we can try to sum-up (and join forces for a common good) all the existent and different "integral" attempts or points of view in the world, like the so called 'Integral Revolution', the so called 'Integral Theory', the concept of the 'Commons', etc. Trying to focus on a realistic world-centric approach about everything, post ego-centric and post etno-centric, post-capitalist and post-statist, and trying to copy and learn from Nature.
-
+Besides, this repository was also an attempt to sum-up and therefore join forces between like-minded persons in a common effort for the common good. That is still a process whose premises are a toolkit made up of experiences, tests and trials.
