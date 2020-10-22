@@ -1,14 +1,17 @@
 ##About Ethics:
 
-The re(search) on what is good or bad for the healthy development of human society is a key issue in all cultures, focused on building common ethics. In old Greece the word ETHOS had two different meanings/concepts:
+The re(search) on what is good or bad for the healthy development of human society is a key issue in all cultures, focused on building common ethics. The topic is pretty vaste and a way to it could be starting from its etimology, which points to the word Ethos, which holds,in ancient Greeck, two different meanings:
 
-* éthos: was referring the way of living, the good or bad in people's Actions, and the solution was to set up laws or norms to filter the actions as being good or bad. That's the Doing realm of Facts. The concept here is how to change behaviour.
+* éthos as the **Habits** adquired, referring to a set of Actions and it leads to set up laws or norms to filter actions as being good or bad. That's the Doing realm.
 
-* êthos: was instead referring the way of being, the good or bad of people's Attitudes not related to the actions or doing but related to the Being realm. What Heidegger called [Da-sein]
+* êthos as the intrinsic **Caracters** of each one referring directly to good or bad of people's Attitudes not related to actions or doing but related to the Being realm. 
 
-The second acception was progressively lost and many subsequent moral systems both religious and secular focused mostly on regarding the Actions, easier to be ruled by Laws, but omit to consider the Attitudes or the Being.
+When translating concept to latin, the term used was **mos** corresponding to **éthos** more than **êthos** and its meaning, which importance was strongly defended by Aristotle, amongs others, though we find **éthos** and **êthos** equally represented in Quintiliano, for example.
+ 
+It's certainly true that many subsequent moral systems, both religious and secular, focused on the Actions, thus using Laws and codes omitting to consider the Attitudes of Being. On the other hand, 
+main difference between Ethics and Moral redides on the fact  what Heidegger called *Da-sein* in XX century
 
-The use of two terms makes us understood the importance given to working on the Attitudes in ancient Greece, where acts depend on them, while the ruling of Actions was given a secondary role, as an off-chance just in case anything else fails.
+The example of two terms makes us understood the importance given to working on the Attitudes from ancient Greece and beyond,  where acts depend on them, while the ruling of Actions was given a secondary role, as an off-chance just in case anything else fails.
 
 Furtherly, even if with some different shades amongst authors, ancient greeks' concept of the Attitudes separated two points of view or Attitude types: The Quantitative looking and the Qualitative looking.
 
