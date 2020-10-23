@@ -21,7 +21,7 @@ Further development of the concept of **Attitude** can lead to see them as of tw
 
 Some authors observed that when Success is functional to shared Values (quality over quantity), then the Attitude,  actions and result (Success) benefit the most. The trick is giving priority to shared Values over personal Success, seen as an accessory secondary goal. 
 
-It's a different case when qualitative is functional to quantitative  ( personal Success over  Shared Values), both attitude and acts (selfish).
+It's a different case when qualitative is functional to quantitative (personal Success over  Shared Values), both attitude and acts (selfish).
 
 Perhaps Values can hardly be taught or imposed: it's more likely they spread when interacting with humans and spaces committed to clear shared Values.
 
@@ -29,6 +29,6 @@ The best attitude is therefore giving priority to Values over quantity or succes
 
 The Attitude of quality over quantity based on Values is what produces Commitment; committed people tend to carry out tasks with dedication. Instead, when good or bad is referred to actions ruled by law, or codes of conduct explicitly or implicitly agreed by large or small groups, the Attitude becomes Accomplishing (Fulfilling) degeneration from Ethics.
 
-A further degeneration is caused by assuming personal ethics based on self-ish and subsequent moral code. 
+A further degeneration is caused by assuming personal ethics based on self-centred moral code, as if 
 
 
