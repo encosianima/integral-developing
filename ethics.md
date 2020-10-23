@@ -1,28 +1,33 @@
 ##About Ethics:
 
-The re(search) on what is good or bad for the healthy development of human society is a key issue in all cultures, focused on building common ethics. The topic is pretty vaste and a way to it could be starting from its etimology, which points to the word Ethos, which holds,in ancient Greeck, two different meanings:
+The (re)search on what is good or bad for healthy development of human society is a key issue we found in cultures, focused on building common ethics. The topic is pretty vast and a way to it could be starting from its etymology, which points to the word Ethos, which holds, in ancient Greek, two different meanings:
 
-* éthos as the **Habits** adquired, referring to a set of Actions and it leads to set up laws or norms to filter actions as being good or bad. That's the Doing realm.
+* éthos as the **Habits** acquired, referring to a set of Actions and it leads to set up laws or norms to filter actions as being good or bad. That's the Doing realm.
 
-* êthos as the intrinsic **Caracters** of each one referring directly to good or bad of people's Attitudes not related to actions or doing but related to the Being realm. 
+* êthos as the intrinsic **Characters** of each one referring directly to good or bad of people's Attitudes not related to actions or doing but related to the Being realm. 
 
-When translating concept to latin, the term used was **mos** corresponding to **éthos** more than **êthos** and its meaning, which importance was strongly defended by Aristotle, amongs others, though we find **éthos** and **êthos** equally represented in Quintiliano, for example.
+When translating the concept to Latin, the term used was *mos* corresponding to *éthos* more than *êthos* and its meaning, which importance was strongly defended by Aristotle, amongst others, though we find *éthos* and *êthos* equally represented in Quintiliano, for example. Nevertheless, a new term was coined by Cicero ("De Fato," II.i) *Morale* from which *Moral* derives, substituting together with Ethica, from which *Ethics* derives.
  
-It's certainly true that many subsequent moral systems, both religious and secular, focused on the Actions, thus using Laws and codes omitting to consider the Attitudes of Being. On the other hand, 
-main difference between Ethics and Moral redides on the fact  what Heidegger called *Da-sein* in XX century
+That fork gave birth to subsequent moral systems, both religious and secular, focused on the Actions, through the use of Laws and Codes omitting to consider the Attitudes of Being, which the Ethics field implies directly. In fact, the main difference between Moral and Ethics resides on being the latter a reflection on shared norms represented by moral systems.   
 
-The example of two terms makes us understood the importance given to working on the Attitudes from ancient Greece and beyond,  where acts depend on them, while the ruling of Actions was given a secondary role, as an off-chance just in case anything else fails.
+Our point here is to stress the importance given to working on the Attitudes from the ancient Greeks to the present day (Heidegger called it *Da-sein* in XX century), aware that Actions have a secondary role, as an off-chance.
 
-Furtherly, even if with some different shades amongst authors, ancient greeks' concept of the Attitudes separated two points of view or Attitude types: The Quantitative looking and the Qualitative looking.
+Further development of this concept can lead to separated two *Attitude types*: The Quantitative looking and the Qualitative looking.
 
-* The Quantitative point of view prioritizes quantity, to Have or to Achieve, to win and dominate. It's motivated by the Interest and ambition is the outcome produced, the 'others' became competitors and the main goal is Success.
+* The Quantitative point of view prioritizes quantity related to Attitudes such as to Have or to Achieve, to win and dominate. It's motivated by the personal interest and ambition is one of the outcomes produced: 'others' became competitors,  the main goal is Success.
 
-* The Qualitative point of view prioritizes quality, to Be or to Learn, to give and receive. It's motivated by Values and generates high aspirations , the 'others' became fellow travellers and the main goal is a Ideal life.
+* The Qualitative point of view prioritizes quality, represented by Attitudes such as to Be or to Learn, to give and receive. It's motivated by shared Values and generates high aspirations: 'others' became fellow travellers, the main goal is a Fair life.
 
-These authors observed that when the Success is functional to Values (quality over quantity), then the attitude is good for the whole society development (both actions and success benefit many others). While when the qualitative looking is functional to quantitative looking (the Success over the Values), both attitude and acts (selfish) render decadency and involution in the society.
+Some authors observed that when Success is functional to shared Values (quality over quantity), then the Attitude,  actions and result (Success) benefit the most. The trick is giving priority to shared Values over personal Success, seen as an accessory secondary goal. 
 
-The best attitude is therefore when the priority is given to Values and the quantity or success is a helpful secondary goal. Values cannot be taught to others, they are just rubbed off (caught by, 'infected') when interacting with humans and spaces committed to clear Values.
+It's a different case when qualitative is functional to quantitative  ( personal Success over  Shared Values), both attitude and acts (selfish).
 
-The Attitude of quality over quantity based on Values is what produces Commitment; committed people tend to carry out tasks with dedication. Instead, in the actual neoliberal individualized decadent society, the good or bad is most referred to actions ruled by law, and the Attitude becomes Accomplishing (Fulfilling).
+Perhaps Values can hardly be taught or imposed: it's more likely they spread when interacting with humans and spaces committed to clear shared Values.
+
+The best attitude is therefore giving priority to Values over quantity or success, just helpful secondary goal. Perhaps Values can hardly be taught or imposed: it's more likely they spread when interacting with humans and spaces committed to clear Values.
+
+The Attitude of quality over quantity based on Values is what produces Commitment; committed people tend to carry out tasks with dedication. Instead, when good or bad is referred to actions ruled by law, or codes of conduct explicitly or implicitly agreed by large or small groups, the Attitude becomes Accomplishing (Fulfilling) degeneration from Ethics.
+
+A further degeneration is caused by assuming personal ethics based on self-ish and subsequent moral code. 
 
 
