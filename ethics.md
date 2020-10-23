@@ -27,8 +27,10 @@ Perhaps Values can hardly be taught or imposed: it's more likely they spread whe
 
 The best attitude is therefore giving priority to Values over quantity or success, just helpful secondary goal. Perhaps Values can hardly be taught or imposed: it's more likely they spread when interacting with humans and spaces committed to clear Values.
 
-The Attitude of quality over quantity based on Values is what produces Commitment; committed people tend to carry out tasks with dedication. Instead, when good or bad is referred to actions ruled by law, or codes of conduct explicitly or implicitly agreed by large or small groups, the Attitude becomes Accomplishing (Fulfilling) degeneration from Ethics.
+The Attitude of quality over quantity based on Values is what produces Commitment; committed people tend to carry out tasks with dedication. Instead, when good or bad is referred to actions ruled by laws or codes of conduct explicitly or implicitly agreed by large or small groups, the Attitude becomes Accomplishing (Fulfilling) degeneration from Ethics, which stands for 
 
-A further degeneration is caused by assuming personal ethics based on self-centred moral code, as if 
+A further degeneration is caused by assuming personal ethics as base for a self-centred moral code, as it claimed to be possible by a tradition of authors. Aristotle introduced an interesting note in this regards, separating selfishness from self-love and loosely allowing virtuos people to practice selfish with no harms for community.
+
+ Some thought is perhaps required on the complex matter of when an action is bad or good; self-defence is different from attack and so on, what we propose is a methodology based on 
 
 
