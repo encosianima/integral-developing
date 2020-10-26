@@ -31,6 +31,12 @@ The Attitude of quality over quantity based on Values is what produces Commitmen
 
 A further degeneration is caused by assuming personal ethics as base for a self-centred moral code, as it claimed to be possible by a tradition of authors. Aristotle introduced an interesting note in this regards, separating selfishness from self-love and loosely allowing virtuos people to practice selfish with no harms for community.
 
- Some thought is perhaps required on the complex matter of when an action is bad or good; self-defence is different from attack and so on, what we propose is a methodology based on 
+Some thought is perhaps required on the complex matter of when an action is bad or good; e.g. self-defence is different from attack.
+
+### References
+
+Margarita Boladeras i Cucurella [Libertad y tolerancia: éticas para sociedades abiertas](https://dialnet.unirioja.es/servlet/libro?codigo=150208)
+
+
 
 
