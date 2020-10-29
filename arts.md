@@ -13,8 +13,7 @@ in Aesthetics, namely the philosophy of art, definition of art has generally fal
    * Art as Expression of Emotional Content. 
    * Art as Form.  
 
-Beyond its definition, Aesthetic is strictly related to Ethic, the two participated equally in Axiology, The theory of Value, I briefly discussed [here]
-(https://www.valentinamesseri.eu/wordpress/2016/09/24/theory-of-values-in-a-nutshell/).
+Beyond its definition, Aesthetic is strictly related to Ethic, the two participated equally in Axiology, The theory of Value, I briefly discussed [here](https://www.valentinamesseri.eu/wordpress/2016/09/24/theory-of-values-in-a-nutshell/).
 
 All things above must be considered as preambles for a topic I'll attempt to develop here. 
 
