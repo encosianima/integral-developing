@@ -3,7 +3,7 @@
 
 &nbsp;
 
-This repository was originally created to develop collectively an approach to *Living as a whole* as integral's part of title represents, with the goal, amongst other, to explore  <a href="https://github.com/IntegralDevs/integral-developing/blob/master/ethics.md">Ethics</a> , [Art] , [Brains], and other topics as a set of principles and also its practical applications in many fields. Besides, this repository was also an attempt to sum-up and therefore join forces between like-minded persons in a common effort for the common good. That is still a process whose premises are a toolkit made up of experiences, tests and trials.
+This repository was originally created to develop collectively an approach to *Living as a whole* as integral's part of title represents, with the goal, amongst other, to explore  <a href="https://github.com/IntegralDevs/integral-developing/blob/master/ethics.md">Ethics</a> , [Art] , [Brains], [Rea-Chain] [Data]and other topics as a set of principles and also its practical applications in many fields. Besides, this repository was also an attempt to sum-up and therefore join forces between like-minded persons in a common effort for the common good. That is still a process whose premises are a toolkit made up of experiences, tests and trials.
 
 Integral Developping is part of a more extended project inside Health and Integral Development, a non-profit association devoted to promoting human well-being at all levels, to collectively identify tools and tactics in an attempt to improve life in each of the aspects that affect its quality.
 
